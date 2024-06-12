@@ -12,7 +12,7 @@ I'm a passionate software developer with a love for technology and innovation. I
 - 🌟 I'm on a continuous journey to master the art and science of UI/UX design.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** Python, C#, PHP, HTML & CSS
+- **Languages:** Python, C#, PHP
 - **Markup & Styling:**
   - HTML
   - CSS
