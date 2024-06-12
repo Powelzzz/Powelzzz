@@ -38,24 +38,7 @@ I'm a passionate software developer with a love for technology and innovation. I
 
 
 
-name: Update GitHub Stats
 
-on:
-  schedule:
-    - cron: '0 0 * * *' # Run daily
-
-jobs:
-  update-stats:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-      
-      - name: Update README
-        run: python update_readme.py
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
 
