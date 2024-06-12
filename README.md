@@ -5,19 +5,19 @@
 ## 🚀 About Me
 I'm a passionate software developer with a love for technology and innovation. I enjoy creating solutions that make a difference and constantly learning new things.
 
-- 🔭 I’m currently working on some exciting projects involving web development and machine learning.
-- 🌱 I’m currently learning advanced algorithms and exploring the depths of artificial intelligence.
+- 🔭 I’m currently working on some exciting projects involving frontend and backend development.
 - 👯 I’m looking to collaborate on open-source projects that aim to solve real-world problems.
-- 🤔 I’m looking for help with contributing to large-scale open-source projects.
 - 💬 Ask me about anything tech-related, I'm always up for a chat!
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
+- 📫 How to reach me: [royalpowel@gmail.com]
+- 🌟 I'm on a continuous journey to master the art and science of UI/UX design.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** Python, JavaScript, Java, C++
-- **Frameworks & Libraries:** React, Node.js, Django, Flask
-- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Languages:** Python, C#, PHP, HTML & CSS
+- **Markup & Styling:**
+  - HTML
+  - CSS
+- **Frameworks & Libraries:** React, Node.js, Bootstrap, Laravel
+- **Databases:** MySQL
 - **Tools:** Git, Docker, Jenkins, VSCode
 
 ## 📊 GitHub Stats
