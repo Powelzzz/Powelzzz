@@ -18,7 +18,7 @@ I'm a passionate software developer with a love for technology and innovation. I
   - CSS
 - **Frameworks & Libraries:** React, Node.js, Bootstrap, Laravel
 - **Databases:** MySQL
-- **Tools:** Git, Docker, Jenkins, VSCode
+- **Tools:** Git, Docker, VSCode, Figma, Webflow, Wix
 
 ## 📊 GitHub Stats
 ![Lawrence's GitHub stats](https://github-readme-stats.vercel.app/api?username=Powelzzz&show_icons=true&theme=radical)
