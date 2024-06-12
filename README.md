@@ -35,7 +35,7 @@ I'm a passionate software developer with a love for technology and innovation. I
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## 📊 Website Development Porfolio
+## 📱 Website Development Porfolio
 - [Luxora](https://www.luxorastudios.com/)
 - [MPBuilds](https://www.mpbuildsca.com/)
 - [RealEstateBarz](https://brucebarz1.wixsite.com/bruce-barz-real-esta?fbclid=IwAR1p7KuQaWk1JxwoQ6FTy2i5baH3K6IEzOfbCb7qtSMcsexs6GOxj9XVRSs)
