@@ -26,14 +26,8 @@ I'm a passionate software developer with a love for technology and innovation. I
 ## 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Powelzzz&layout=compact&theme=radical)
 
-## 📝 Recent Blog Posts
-- [Title of Blog Post 1](https://yourblog.com/post1)
-- [Title of Blog Post 2](https://yourblog.com/post2)
-- [Title of Blog Post 3](https://yourblog.com/post3)
-
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
 - [Personal Website](https://yourwebsite.com)
 
 ## 🎨 Random Dev Joke
