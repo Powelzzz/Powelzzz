@@ -22,6 +22,8 @@ I'm a passionate software developer with a love for technology and innovation. I
 - **Databases:** MySQL
 - **Tools:** Git, Docker, VSCode, Figma, Webflow, Wix
 
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 ## 📊 GitHub Stats
 ![Lawrence's GitHub stats](https://github-readme-stats.vercel.app/api?username=Powelzzz&show_icons=true&theme=radical)
 
@@ -29,8 +31,7 @@ I'm a passionate software developer with a love for technology and innovation. I
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Powelzzz&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile) (https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/yourprofile) 
 
 ## 🎨 Random Dev Joke
 ![Joke](https://readme-jokes.vercel.app/api)
