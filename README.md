@@ -2,7 +2,7 @@
 
 ✨ Welcome to my GitHub profile! ✨
 
-![Coding GIF](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif)
+![Coding GIF](https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif)
 
 ## 🚀 About Me
 I'm a passionate software developer with a love for technology and innovation. I enjoy creating solutions that make a difference and constantly learning new things.
