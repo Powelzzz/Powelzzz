@@ -51,7 +51,7 @@ I'm a passionate software developer with a love for technology and innovation. I
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Facebook](https://www.linkedin.com/in/yourprofile))
+- [Facebook](https://web.facebook.com/lawrence.abayata)
 
 ## 🎨 Random Dev Joke
 ![Joke](https://readme-jokes.vercel.app/api)
