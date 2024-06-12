@@ -33,7 +33,5 @@ I'm a passionate software developer with a love for technology and innovation. I
 ## 🎨 Random Dev Joke
 ![Joke](https://readme-jokes.vercel.app/api)
 
-## 🐍 A Snake Game just for fun
-![Snake animation](https://github.com/Powelzzz/Powelzzz/blob/output/github-contribution-grid-snake.svg)
 
 Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or just chat about tech! 😄
