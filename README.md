@@ -50,7 +50,8 @@ I'm a passionate software developer with a love for technology and innovation. I
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Powelzzz&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile) 
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Facebook](https://www.linkedin.com/in/yourprofile))
 
 ## 🎨 Random Dev Joke
 ![Joke](https://readme-jokes.vercel.app/api)
